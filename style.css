@@ -1,6 +1,6 @@
 #mainclass{
-    width: 40%;
-    height: 40%;
+    width: 16%;
+    height: 16%;
     line-height: 45px;
     padding: 120px 120px;
     margin: auto;
@@ -16,11 +16,15 @@
 #imageswap{
     width: 40%;
     height: 10%;
+     margin: auto;
 
 }
 #nextbut{
     width: 138px;
     height: 2px;
+     margin: auto;
+    
+    
 
 }
 
